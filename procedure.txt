@@ -1,0 +1,21 @@
+npm install --save-dev --save-exact prettier
+npx prettier . --write
+npm install --save-dev nodemon 
+npm i dotenv
+mkdir src 
+cd src
+mkdir controllers; mkdir db; mkdir middlewares; mkdir models; mkdir routes; mkdir utils; mkdir validators
+cd ..
+mkdir public
+cd public
+mkdir images
+npm install express --save
+npm install cors
+npm install mongoose
+npm i bcrypt
+npm i jsonwebtoken
+npm install mailgen
+npm i nodemailer
+npm i express-validator
+npm i cookie-parser
+npm install multer

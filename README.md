@@ -1,0 +1,2 @@
+1. Run 'npm init' in the terminal to quickly create a default package.json file for your project.
+2. Nodemon is used to automatically restart your Node.js server whenever file changes are detected, and you use it by running your app with nodemon filename.js instead of node filename.js.
